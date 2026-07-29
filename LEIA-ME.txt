@@ -1,0 +1,3 @@
+Versão corrigida para celular.
+O modal de cadastro agora fica acima do menu inferior, o menu é ocultado enquanto o cadastro está aberto e a janela pode rolar até o botão Salvar perfil.
+Envie todos os arquivos para a raiz do GitHub Pages.
